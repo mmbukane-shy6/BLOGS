@@ -17,7 +17,7 @@ SHEILA EGEIDZA
 
 * create a directory for this project
 
-* run "pip install" in your terminal to install python packages and "pip 
+* run <code>pip install</code> in your terminal to install python packages and "pip 
 
 * update" to update the packages.
 
