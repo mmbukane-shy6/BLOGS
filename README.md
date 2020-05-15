@@ -12,7 +12,7 @@ SHEILA EGEIDZA
 
 * Clone this repo to your desktop
 
-* run this in your terminal "git remove set-url" if you wish to have it 
+* run this in your terminal <code>git remove set-url</code> if you wish to have it 
 
 * into your repository
 
